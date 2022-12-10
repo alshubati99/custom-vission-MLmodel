@@ -20,7 +20,7 @@ This workshop assumes core knowledge of Git, specifically the ability to clone a
 You will build a project using Python. Basic knowledge of Python is assumed, specifically the ability to import packages and use `open` and `with`. You will also need Python installed locally. To test if you have Python and pip installed, open a command or terminal window and run the following commands.
 
 ```bash
-python3 --version
+python --version
 ```
 ```bash
 pip3 --version
