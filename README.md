@@ -9,7 +9,15 @@ This repository is about building a model to detect dog breeds.
 
 ![demo image](./images/demo.png)
 
-## Prerequisites
+## In This workshop: 
+
+- [Part 0: Install and configure tools]
+- [Part 1: Train your model]
+- [Part 2: Test your model]
+
+# Part 0: Install and configure tools
+
+As with any project, a few tools are going to be needed. In particular you'll need a code editor, an Azure subscription, and a couple of keys for Custom Vision.
 
 ### Git
 
@@ -25,6 +33,7 @@ python --version
 ```bash
 pip3 --version
 ```
+
 If Python and pip are installed a version number will be displayed, such as *3.8.10*. Otherwise, an error message is displayed. You can install Python and pip as needed:
 
 - [Windows](https://docs.microsoft.com/windows/python/beginners?wt.mc_id=studentamb_211042#install-python)
@@ -34,20 +43,6 @@ If Python and pip are installed a version number will be displayed, such as *3.8
 ### Visual Studio Code
 
 The instructions for this workshop assume you are using [Visual Studio Code](https://code.visualstudio.com?wt.mc_id=studentamb_211042), an open source code editor. You will also need the [Pylance extension](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&wt.mc_id=studentamb_211042), which will provide additional functionality when writing Python.
-
-## In This workshop: 
-
-- [Part 0: Install and configure tools]
-- [Part 1: Train your model]
-- [Part 2: Test your model]
-
-# Part 0: Install and configure tools
-
-As with any project, a few tools are going to be needed. In particular you'll need a code editor, an Azure subscription, and a couple of keys for Custom Vision.
-
-## Installing the editor
-
-Visual Studio Code is an open source code editor which can be used to create nearly any project type with any programming language. If you don't already have Visual Studio Code installed, you can install it by visiting [code.visualstudio.com](https://code.visualstudio.com/?wt.mc_id=studentamb_211042). You will also need the [Pylance extension](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&wt.mc_id=studentamb_211042), which will provide additional functionality when writing Python.
 
 ## Obtaining the starter project
 
